@@ -1,4 +1,4 @@
 # bookbot
 A bot for books!
 
-Looks like i need ot get rid of the VIM extension. Silly.
+changing to test p10k config
